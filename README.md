@@ -1,3 +1,27 @@
+<center>
+     
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    string languages[] = {"JavaScript", "HTML", "CSS", "C#", "Bash", "Linux", "MySQL", "Python"};
+    int size = sizeof(languages) / sizeof(languages[0]);
+    cout << "I write ";
+    for (int i = 0; i < size; i++) {
+        cout << languages[i];
+        if (i < size - 2) {
+            cout << ", ";
+        } else if (i == size - 2) {
+            cout << " and ";
+        }
+    }
+    cout << ".\n";
+    return 0;
+}
+```
+
+</center>
 <div align="center">
   <table style="width: 100%; border: none;">
     <tr>
