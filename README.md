@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    string languages[] = {"JavaScript", "HTML", "CSS", "C#", "Bash", "Linux", "MySQL", "Python"};
+    string languages[] = {"JavaScript", "HTML", "CSS", "C#", "Bash", "Arch Linux", "MySQL", "Python"};
     int size = sizeof(languages) / sizeof(languages[0]);
     cout << "I write ";
     for (int i = 0; i < size; i++) {
