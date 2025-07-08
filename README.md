@@ -36,3 +36,4 @@ int main() {
     </tr>
   </table>
 </div>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nothing+Right+,+Nothing+Wrong.)
