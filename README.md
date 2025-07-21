@@ -91,5 +91,3 @@ class Program
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nothing+Right+,+Nothing+Wrong.)
-
-![e8b08f8d4ebe3ae3d91711f8b2c81594](https://github.com/user-attachments/assets/00edf500-fda9-4383-9d3a-873f8b8c1f68)
