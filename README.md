@@ -21,11 +21,22 @@
   
 </div>
 
-### My Beloved Projects
 
+<div align="center">
+
+### My Beloved Projects
 [![Random-Username-Generator_Firefox-Extension](https://github-readme-stats.vercel.app/api/pin/?username=qubixq&repo=Random-Username-Generator_Firefox-Extension&theme=dark)](https://github.com/qubixq/Random-Username-Generator_Firefox-Extension)
 [![qemu-discord-rpc](https://github-readme-stats.vercel.app/api/pin/?username=qubixq&repo=qemu-discord-rpc&theme=dark)](https://github.com/qubixq/qemu-discord-rpc)
 [![simple-linux-cert-installer](https://github-readme-stats.vercel.app/api/pin/?username=qubixq&repo=simple-linux-cert-installer&theme=dark)](https://github.com/qubixq/simple-linux-cert-installer)
 [![gupdate](https://github-readme-stats.vercel.app/api/pin/?username=qubixq&repo=gupdate&theme=dark)](https://github.com/qubixq/gupdate)
 
+</div>
+<p align="center">
+	<img src="https://github.com/user-attachments/assets/bf739a1a-c6ba-4827-8595-258fbb382a88" />
+</p>
+<p align="center">
+	Copyright &copy; 2025
+</p>
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=qubixq.qubixq&left_color=black&right_color=mediumpurple"  />
+</p>
