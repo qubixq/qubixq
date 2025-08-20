@@ -35,7 +35,7 @@
 	<img src="https://github.com/user-attachments/assets/bf739a1a-c6ba-4827-8595-258fbb382a88" />
 </p>
 <p align="center">
-	Copyright &copy; 2025
+	Copyleft &copy; 2025
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=qubixq.qubixq&left_color=black&right_color=mediumpurple"  />
